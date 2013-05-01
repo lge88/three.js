@@ -1,0 +1,10 @@
+{
+  "name": "three",
+  "version": "0.0.1",
+  "upstream": "git://github.com/mrdoob/three.js.git",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/lge88/three.git"
+  },
+  "main": "index.js"
+}
