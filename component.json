@@ -1,6 +1,7 @@
 {
   "name": "three.js",
   "repo": "lge88/three.js",
+  "upstream": "git://github.com/mrdoob/three.js.git",
   "description": "three.js",
   "version": "57.0.0",
   "scripts": ["build/three.js"],
